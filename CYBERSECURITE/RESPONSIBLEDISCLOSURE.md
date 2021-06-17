@@ -1,8 +1,8 @@
-#Responsible disclosure :
+# Responsible disclosure :
 > **'Responsible disclosure'** : Divulgation responsable  
 > ou **'Coordinated vulnerability disclosure'** : divulgation coordonnée des vulnérabilités
 
-##C'est quoi 'Responsible disclosure' ?
+## C'est quoi 'Responsible disclosure' ?
 'Responsible disclosure' est un modèle de divulgation de vulnérabilité dans lequel une vulnérabilité ou un problème 
 est divulgué à votre équipe de manière sûr et efficace.
 C'est en ça que 'Responsible disclosure' diverge de 'Full disclosure'
@@ -13,7 +13,7 @@ et de votre infrastructure de manière sûre et efficace. La génération d’un
 n’en créent pas du tout.
 
 
-##'Full disclosure'
+## 'Full disclosure'
 Parfois, un Hacker, bug bounty, etc. peut découvrir une faille dans votre application. Dans la plupart des cas, 
 un hacker éthique signalera en privé la violation à votre équipe et accordera à votre équipe un délai raisonnable pour 
 résoudre le problème. Dans certains cas, ils peuvent dévoiler la faille au public.
@@ -32,7 +32,7 @@ et votre service de relations publiques, surtout si le pirate informatique n'a p
 Ces scénarios peuvent conduire à une image négative et à un rythme infernal pour corriger au plus vite la faille.
 
 
-##'Responsible disclosure'
+## 'Responsible disclosure'
 Une politique 'Responsible disclosure' est la première étape pour aider à protéger votre entreprise contre une attaque
 ou une divulgation prématurée de faille au public.
 
@@ -42,6 +42,6 @@ Commencer la 'Responsible disclosure' nécessite simplement une page de sécurit
 - Les types de bug et de faille à valides pour la soumission.
 - Une adresse e-mail de sécurité dédiée pour signaler le problème (security@nom-du-site.com).
 
-####@Sources :
+#### @Sources :
 - [Wikipedia](https://en.wikipedia.org/wiki/Responsible_disclosure#:~:text=In%20computer%20security%2C%20responsible%20disclosure,to%20be%20patched%20or%20mended.)
 - [Bugcrowd](https://www.bugcrowd.com/resource/what-is-responsible-disclosure/)
