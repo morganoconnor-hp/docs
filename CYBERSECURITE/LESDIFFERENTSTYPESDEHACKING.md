@@ -1,4 +1,4 @@
-#Les différents types de hacking
+# Les différents types d’hacking
 
 - Le gain financier de nature criminelle, soit le vol de numéros de cartes de crédit ou la violation des systèmes bancaires.
 

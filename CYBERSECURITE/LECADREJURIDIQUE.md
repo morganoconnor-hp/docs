@@ -6,7 +6,7 @@
 
 - Des sanctions civiles : par exemple dommages et intérêts, confiscation du matériel ou encore interdiction d’usage des fichiers utilisés.
 
-###Quelque exemple :
+### Quelque exemple :
 - Le spoofing :
 
 ``Intervenir dans la communication entre une ou plusieurs machines``
