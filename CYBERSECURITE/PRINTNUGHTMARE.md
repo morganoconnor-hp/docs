@@ -1,5 +1,7 @@
 # PRINT NIGHTMARE
 
+Bilan sécurité : CVE-2021-34527
+
 La vulnérabilité Print Nightmare est un exploit « critique » qui affecte la file d’attente d’impression Windows et a été
 découverte dans Windows 7. Cette vulnérabilité permet aux attaquants d’exécuter du code à distance sur nos appareils et 
 d’en prendre le contrôle.
