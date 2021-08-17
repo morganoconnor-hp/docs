@@ -37,4 +37,4 @@ ______________________
 
 #### Note
 
-- [Droit et Permission](https://github.com/morganoconnor-hp/documentary/blob/main/CYBERSECURITE/LECADREJURIDIQUE.md)
+- [Droit et Permission](https://github.com/morganoconnor-hp/documentary/blob/main/CYBERSECURITE/DROITSETPERMISSION.md)
