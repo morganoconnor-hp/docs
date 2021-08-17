@@ -32,3 +32,9 @@ Méthode 1 :
 Méthode 2 :
 
 ``chmod 4755 nom_du_fichier``
+
+
+
+Note :
+
+- [Droit et Permission](https://github.com/morganoconnor-hp/documentary/blob/main/CYBERSECURITE/LECADREJURIDIQUE.md)
