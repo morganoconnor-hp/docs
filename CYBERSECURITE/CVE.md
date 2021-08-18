@@ -3,6 +3,9 @@
 Les identifiants CVE sont des références de la forme CVE-AAAA-NNNN (AAAA est l'année de publication et NNNN un numéro 
 d'identifiant). Par exemple, la faille FREAK a pour identifiant CVE-2015-0204. 
 
+La liste CVE est supervisée par l'organisme MITRE et subventionnée par la CISA (Cybersecurity and Infrastructure 
+Security Agency), qui fait partie du Département de la Sécurité intérieure des États-Unis.
+
 Le contenu du dictionnaire CVE peut être téléchargé. Cette liste contient une description succincte de la vulnérabilité 
 concernée, ainsi qu'un ensemble de liens que les utilisateurs peuvent consulter pour plus d'informations.
 
