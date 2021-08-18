@@ -31,3 +31,9 @@ Les elements qui peuvent faire cela :
 - 
 Les applications qui n'autorisent aucune de ces balises ne devraient pas être affectées, 
 car aucune n'est autorisée par défaut.
+
+
+## Source
+- https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-38193
+- https://rustsec.org/advisories/RUSTSEC-2021-0074.html
+- https://www.redhat.com/fr/topics/security/what-is-cve#:~:text=L'acronyme%20CVE%2C%20pour%20Common,s%C3%A9curit%C3%A9%20r%C3%A9pertori%C3%A9e%20dans%20cette%20liste.
