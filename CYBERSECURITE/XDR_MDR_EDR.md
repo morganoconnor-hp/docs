@@ -7,7 +7,8 @@ Avec la main-d'œuvre dispersée d'aujourd'hui et jusqu'à 70 % de toutes les vi
 informatiques d'augmenter à la fois leur visibilité et leur capacité à corriger à distance. Souvent, le plus gros obstacle est de comprendre ce que chaque solution 
 fournit, en particulier lorsque les terminologies varient d'un fournisseur à l'autre.
 
-====================================================================================
+
+
 ### XDR : Extended Detection and Response
 
 Le XDR aide les équipes de sécurité à résoudre certains problèmes de visibilité des menaces en centralisant,
