@@ -9,7 +9,7 @@ selon le niveau de maturité en cybersécurité d’une entité, d’appliquer a
 
 Ces solutions permettent une accélération du traitement des alertes.
 
-
+#### Dètails :
 > - Une expertise approfondie alignée sur les exigences et des vulnérabilités de votre organisation en matière de cybersécurité
 > - Analystes de sécurité dédiés surveillant votre réseau à la recherche de menaces
 > - Outils MDR intégrés avec analyses avancées et renseignements sur les menaces intégrés pour identifier avec précision les menaces
@@ -20,10 +20,11 @@ Ces solutions permettent une accélération du traitement des alertes.
 > - Effet positif sur les indicateurs clés de cybersécurité : fréquence des incidents, délai de clôture de l'incident, coût par incident
 
 
-#### Vulgarisations :
+### Vulgarisations :
 Les solutions d’EDR assurent une visibilité et une surveillance des activités suspectes, telles que les malwares et les cyberattaques, à l’œuvre sur les appareilles de ces utilisateurs.
 
-#### Source :
+
+### Source :
 - https://orangecyberdefense.com/fr/insights/blog/detection/soc-siem-xdr-mdr-edr-quelles-differences/
 - https://www.forbes.com/sites/forbestechcouncil/2021/04/15/edr-xdr-and-mdr-understanding-the-differences-behind-the-acronyms/
 - criticalinsight.com/resources/news/article/what-is-managed-detection-and-response-mdr
