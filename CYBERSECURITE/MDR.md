@@ -27,4 +27,4 @@ Les solutions d’EDR assurent une visibilité et une surveillance des activité
 ### Source :
 - https://orangecyberdefense.com/fr/insights/blog/detection/soc-siem-xdr-mdr-edr-quelles-differences/
 - https://www.forbes.com/sites/forbestechcouncil/2021/04/15/edr-xdr-and-mdr-understanding-the-differences-behind-the-acronyms/
-- criticalinsight.com/resources/news/article/what-is-managed-detection-and-response-mdr
+- https://criticalinsight.com/resources/news/article/what-is-managed-detection-and-response-mdr
