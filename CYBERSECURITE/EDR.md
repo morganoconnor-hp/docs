@@ -7,9 +7,11 @@ Pour ce faire, ces logiciels analysent les usages faits des terminaux surveillé
 Celle-ci permet de reconnaître des comportements déviant d’une norme, après une phase d’apprentissage. Les logiciels d’EDR sont également capables 
 de surveiller l’exploitation de failles de sécurité.
 
-#### Vulgarisations : 
+
+### Vulgarisations : 
 
 Les solutions d’EDR assurent une visibilité et une surveillance des activités suspectes, telles que les malwares et les cyberattaques, à l’œuvre sur les appareilles de ces utilisateurs.
 
-#### Sources :
+
+### Sources :
 - https://blog.varonis.fr/endpoint-detection-and-response-edr/
