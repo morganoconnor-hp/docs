@@ -10,12 +10,14 @@ normalisant et corrélant les données de sécurité provenant de sources multip
 
 Cette approche augmente les capacités de détection par rapport aux outils spécifiques de détection et de réponse des terminaux (EDR).
 
-#### Vulgarisations : 
+
+### Vulgarisations : 
 
 La solution XDR offre une visibilité sur les données des réseaux, des clouds, des terminaux et des applications, et 
 utilise des fonctions d'automatisation et d'analyse pour détecter, examiner, repérer et éliminer les menaces actuelles et futures.
 
-#### Sources :
+
+### Sources :
 - https://www.trendmicro.com/fr_fr/what-is/xdr.html
 - https://www.mcafee.com/enterprise/fr-fr/security-awareness/endpoint/what-is-xdr.html
 - https://orangecyberdefense.com/fr/solutions/protection-des-mobiles-et-des-endpoints/endpoint-detection-and-response-pourquoi-ledr/
